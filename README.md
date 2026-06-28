@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>🎓 BBA graduate with a strong interest in Data Analytics and Business Intelligence.<br><br>📈 Passionate about transforming raw data into actionable insights using SQL, Excel, Power BI, Python, and Tableau.<br><br>🛠️ Building practical analytics projects to strengthen problem-solving, dashboarding, and reporting skills.<br><br>🤖 Exploring AI, GenAI, and automation to enhance data workflows and business productivity.<br><br>🌟 Seeking opportunities to grow as a Data Analyst while creating meaningful business impact through data.
+🎓 BBA graduate with a strong interest in Data Analytics and Business Intelligence.<br><br>📈 Passionate about transforming raw data into actionable insights using SQL, Excel, Power BI, Python, and Tableau.<br><br>🛠️ Building practical analytics projects to strengthen problem-solving, dashboarding, and reporting skills.<br><br>🤖 Exploring AI, GenAI, and automation to enhance data workflows and business productivity.<br><br>🌟 Seeking opportunities to grow as a Data Analyst while creating meaningful business impact through data.
 
 
 ## 🌐 Socials:
